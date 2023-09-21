@@ -16,3 +16,11 @@ The `index.js` file connects to a local MongoDB database named `helloDB`. Once c
 4. Execute:
   ```bash
    node index.js
+
+## Results
+![Results](mongodb-helloWorld-results.png)
+
+## Notes
+- It was easy to install MongoDB and start using immediatly
+- It was easy to code using node.js to create documents and retrieve them
+- The DocumentDB functionality in DataStax is similar; however, there are more available functions for accessing and manipulating documents in MongoDB 
