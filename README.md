@@ -16,6 +16,7 @@ The `index.js` file connects to a local MongoDB database named `helloDB`. Once c
 4. Execute:
   ```bash
    node index.js
+  ```
 
 ## Results
 ![Results](mongodb-helloWorld-results.png)
